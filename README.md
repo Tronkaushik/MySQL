@@ -1,2 +1,0 @@
-# MySQL-Assignment
-# MySQL-Assignment
